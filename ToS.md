@@ -55,15 +55,11 @@ Our Services are designed to give you control and ownership over the stories you
 
 GainUp! allows for you to gain weight for roleplays that you may do, and we would love for you to use it.
 
-GainUp!'s basic service is free, and we offer paid plans that add advanced features. **We don’t own your content, and you retain all ownership rights you have in the content you post or write on Discord.** However, be responsible in what you publish. In particular, make sure that nothing prohibited (like spam, viruses, or serious threats of violence) appears in your stories.
-
-If you find a story that you believe violates these Terms, please join our support server and let us know. If there is reasonable suspicion of misuse, we may look at the story there and take appropriate action (as determined by us in our sole discretion). See [our privacy policy](https://github.com/2br-2b/storybot-legal/releases/latest) for more details.
+GainUp!'s whole service is free. There is, and as of now will not be a paid subscription to GainUp!.
 
 **License.** By uploading or sharing Content, you grant us a worldwide, royalty-free, transferable, sub-licensable, and non-exclusive license to use, reproduce, modify, distribute, adapt, store, and use the Content solely for the purpose of providing and improving our products and Services.
 
 **Removing Content.** If you delete Content, we’ll use reasonable efforts to delete it, but you acknowledge that backed-up versions of the Content or references to the Content may still be stored. These will be deleted when they are no longer needed. If you want us to delete your data from backups too, join our support server and notify us.
-
-**Prohibited Uses.** Your and your story must comply with [Discord's Terms of Service](https://discord.com/terms).
 
 ## 8. Copyright Policy
 
