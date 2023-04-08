@@ -83,11 +83,9 @@ You can stop using our Services at any time, or, if you use a Paid Service, you 
 
 Our Services are provided “as is.” GainUp! and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, to the maximum extent allowed by applicable law, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither GainUp!, nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
 
-Our bot may offer settings like "Safe Mode" to attempt to help server moderators better restrict content found in their stories. While these may try to help moderators restrict content, these filters are inherently imperfect and are not a substitute for human moderation. if some content makes its way past a Safe Mode filter, we are not responsible for that breach.
-
 ## 13. Jurisdiction and Applicable Law.
 
-Except to the extent any applicable law provides otherwise, the Agreement and any access to or use of our Services will be governed by the laws of the state of Texas, U.S.A., excluding its conflict of law provisions and the application of the United Nations Convention of Contracts for the International Sale of Goods, and the proper venue for any disputes arising out of or relating to the Agreement and any access to or use of our Services will be the state and federal courts located in Dallas, Texas, U.S.A. Nothing in this Agreement affects your rights as a consumer to rely on mandatory provisions in your country of residence.
+These Legal Terms are governed by and interpreted following the laws of the Netherlands, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. The developer and yourself both agree to submit to the non-exclusive jurisdiction of the courts of Noord Brabant, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in the Netherlands, or in the EU country in which you reside.
 
 ## 14. Limitation of Liability
 
