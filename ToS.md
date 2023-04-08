@@ -16,7 +16,7 @@ Using our Services requires a Discord account. You agree that we may collect you
 
 You’re solely responsible and liable for all activity under your account. You’re also fully responsible for maintaining the security of your account (which includes keeping your password secure). We’re not liable for any acts or omissions by you, including any damages of any kind incurred as a result of your acts or omissions. If you get fired for using the bot at work, that’s on you.
 
-If you’d like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://github.com/2br-2b/storybot-legal/releases/latest).
+If you’d like to learn about how we handle the data you provide us, please see our [Privacy Policy](https://github.com/TrainDoesGames/GainUp--Legal/blob/master/Privacy%20Policy.md).
 
 ## 3. Minimum Age Requirements
 
@@ -95,11 +95,7 @@ In no event will GainUp!, or its suppliers, partners, or licensors, be liable (i
 
 You agree to indemnify and hold harmless GainUp!, its contractors, and its licensors, and their respective directors, officers, employees, and agents from and against any and all losses, liabilities, demands, damages, costs, claims, and expenses, including attorneys’ fees, arising out of or related to your use of our Services, including but not limited to your violation of the Agreement or any agreement with a provider of third-party services used in connection with the Services, Content that you post, and any ecommerce activities conducted through your or another user’s server.
 
-## 16. US Economic Sanctions
-
-You agree that our ability to provide our Services to you is subject to compliance with US sanctions that restrict or prohibit who or from where our Services can be accessed. By using the Services, you represent and warrant that you (i) are not located or residing in any country or territory subject to comprehensive US sanctions; (ii) are not listed on any United States list of prohibited or restricted parties, such as [OFAC’s Specially Designated Nationals and Persons List](https://home.treasury.gov/policy-issues/financial-sanctions/specially-designated-nationals-and-blocked-persons-list-sdn-human-readable-lists), or otherwise subject to US sanctions that would prohibit your access to or use of our Services; and (iii) shall not use or allow access by any of your customers or potential customers (if applicable) to the Services in any manner that may cause GainUp! to violate US export controls and sanctions. We reserve the right to restrict or block your access, or access by any of your customers or potential customers (if applicable), to the Services and/or to terminate the Agreement at any time without notice if we determine, at our sole discretion, that such access may cause a violation or create unacceptable risk to us under export controls or sanctions.
-
-## 17. Miscellaneous
+## 16. Miscellaneous
 
 The Agreement (together with any other terms we provide that apply to any specific Service) constitutes the entire agreement between GainUp! and you concerning our Services. If any part of the Agreement is unlawful, void, or unenforceable, that part is severable from the Agreement, and does not affect the validity or enforceability of the rest of the Agreement. A waiver by either party of any term or condition of the Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof.
 
