@@ -1,6 +1,5 @@
 Here is the data my bot stores about users:
 - User ID (the bot does store usernames or discriminators, this is for debugging purposes only);
-- 
 
 Here is the data my bot stores about each server:
 - Guild ID (the bot does not store server names);
